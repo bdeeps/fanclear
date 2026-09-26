@@ -1,0 +1,100 @@
+{
+  "slug": "fanclear",
+  "box": 4,
+  "date": "2026-09-27",
+  "title": "FanClear",
+  "question": "How does a fan work?",
+  "hook": "Tilted blades, a magnetic field that spins, and a breeze that cools you without cooling the air. Take a fan apart in 3D and see why half speed costs one eighth of the power.",
+  "thumbText": "HOW A FAN WORKS",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "fan",
+    "ceiling fan",
+    "electric motor",
+    "induction motor",
+    "BLDC",
+    "airflow",
+    "wind chill",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A motor, blades, a guard and a switch",
+      "text": "An electric fan is a motor with a hub of tilted blades on its shaft, a wire guard around them, and a switch or regulator to set the speed. A desk fan also has a small gearbox that swings its head."
+    },
+    {
+      "title": "Tilted blades push the air",
+      "text": "Each blade is tilted, with its leading edge higher than its trailing edge. As it sweeps round, the slope shoves air out of one side of the fan, like a propeller. Spin a ceiling fan backwards and the same blades pull air up instead."
+    },
+    {
+      "title": "A magnetic field that turns",
+      "text": "In an induction motor, two sets of coils are fed so their currents peak one after the other, thanks to a capacitor. Together they make a magnetic field that rotates. It induces currents in the rotor's metal bars and drags the rotor round, always a few percent behind."
+    },
+    {
+      "title": "Half the speed, one eighth of the power",
+      "text": "Airflow grows in step with a fan's speed, the push it makes grows with speed squared, and the power it needs grows with speed cubed. That is why low regulator steps save so much energy, and why BLDC fans that run on about 30 W instead of 75 W matter."
+    },
+    {
+      "title": "It cools you, not the room",
+      "text": "A fan does not lower the air temperature. Its motor even adds a little heat. It feels cool because moving air strips away the warm, damp layer on your skin and helps sweat evaporate. A 1 m/s breeze feels about 3 to 4 °C cooler."
+    },
+    {
+      "title": "A worm gear swings the head",
+      "text": "Behind the motor, a worm on the shaft turns a worm wheel one tooth per turn. With one more pair of gears, the motor is slowed about 240 times. A crank and a link tied to the stand turn that slow rotation into a side-to-side swing."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pitch",
+      "def": "How steeply a blade is tilted from the plane it spins in. Ceiling fans use about 10 to 14 degrees."
+    },
+    {
+      "term": "Airflow",
+      "def": "How much air a fan moves each minute, in cubic metres per minute. A 1200 mm ceiling fan moves about 200 m³/min."
+    },
+    {
+      "term": "Induction motor",
+      "def": "A motor whose rotor is pushed by currents that the stator's changing magnetic field induces in it."
+    },
+    {
+      "term": "Capacitor",
+      "def": "An electrical part that, in a fan motor, delays the current in one coil so the magnetic field rotates."
+    },
+    {
+      "term": "Slip",
+      "def": "How far an induction motor's rotor lags behind its rotating magnetic field, usually a few percent."
+    },
+    {
+      "term": "BLDC motor",
+      "def": "A brushless motor with magnets on the rotor and electronics that switch the coils. Fans with one use less than half the power."
+    },
+    {
+      "term": "Fan laws",
+      "def": "For the same fan, airflow grows with speed, pressure with speed squared and power with speed cubed."
+    },
+    {
+      "term": "Evaporative cooling",
+      "def": "Cooling by turning a liquid, like sweat, into vapour. The change soaks up heat from the surface."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "fanclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

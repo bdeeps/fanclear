@@ -1,0 +1,815 @@
+{
+  "title": "The history of the fan",
+  "tagline": "3,300 years from a pharaoh's feather fan to a ceiling fan that sips 30 watts.",
+  "intro": "For most of history, a breeze on a hot day meant someone waving something: a feather, a palm leaf, a folding fan, or a huge cloth punkah pulled on a rope all night. In the 1880s a small electric motor with a propeller on its shaft changed that, and Tesla's induction motor made fans cheap, quiet and long-lived. Today India alone has hundreds of millions of ceiling fans, and new motors are cutting their power use by more than half.",
+  "eras": [
+    {
+      "id": "hand",
+      "name": "Feathers, leaves and folding fans",
+      "from": -1400,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "Fans are waved by hand, and clever buildings use wind, water and night air to stay cool."
+    },
+    {
+      "id": "pulled",
+      "name": "Pulled by rope, turned by water",
+      "from": 1700,
+      "to": 1882,
+      "color": "#ffb547",
+      "summary": "Big fans hang from ceilings, but a person or a stream of water still has to power them."
+    },
+    {
+      "id": "electric",
+      "name": "The electric breeze",
+      "from": 1882,
+      "to": 1940,
+      "color": "#ff7a59",
+      "summary": "Electric motors spin propellers on desks and ceilings. Tesla's AC motor, guards and oscillating heads make fans safe and everyday."
+    },
+    {
+      "id": "home",
+      "name": "Air conditioning and the ceiling fan's comeback",
+      "from": 1940,
+      "to": 2000,
+      "color": "#5ce1a9",
+      "summary": "New shapes like the Vornado arrive, air conditioning pushes fans aside in the US, and an energy crisis brings them back."
+    },
+    {
+      "id": "efficient",
+      "name": "Bladeless and brushless",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Fans without visible blades, electronic motors that use less than half the power, and star labels that push efficiency."
+    }
+  ],
+  "events": [
+    {
+      "year": -1323,
+      "date": "c. 1323 BCE",
+      "era": "hand",
+      "art": "handfan",
+      "key": true,
+      "title": "A pharaoh's ostrich-feather fan",
+      "who": "Tutankhamun",
+      "where": "Valley of the Kings, Egypt",
+      "country": "Egypt",
+      "text": "Tutankhamun was buried with fans, including a long gold-covered fan that once held about 30 white and brown ostrich feathers. Its handle says the feathers came from ostriches the young king hunted in the desert east of Heliopolis.",
+      "why": "Fans were so precious in ancient Egypt that a king took them to the afterlife.",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": -1300,
+      "date": "c. 1300 BCE onwards",
+      "era": "hand",
+      "art": "building",
+      "title": "Windcatchers",
+      "who": "Builders in Egypt and Persia",
+      "where": "Egypt and Iran",
+      "country": "Iran",
+      "text": "A painting in the Egyptian house of Neb-Amun, from about 1300 BCE, shows a rooftop wind scoop called a malqaf. In Persia, tall towers called bâdgir caught the breeze, and some sent it over cool water in underground channels before it reached the rooms.",
+      "why": "Moving air over water cools it by evaporation, the same trick your skin uses when a fan blows on sweat.",
+      "box": "cooling",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": -400,
+      "date": "c. 400 BCE",
+      "era": "hand",
+      "art": "icehouse",
+      "title": "Ice in the desert",
+      "who": "Persian builders",
+      "where": "Persia (today's Iran)",
+      "country": "Iran",
+      "text": "Persians built yakhchāls, tall domed ice houses with thick walls and shade walls. Water froze in shallow pools on clear winter nights and was stored underground, sometimes cooled further by windcatchers.",
+      "why": "It showed that shade, wind and night sky could keep things cold with no machine at all.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": -150,
+      "date": "2nd century BCE",
+      "era": "hand",
+      "art": "handfan",
+      "title": "China's oldest surviving fans",
+      "who": "Craftspeople of Han China",
+      "where": "China",
+      "country": "China",
+      "text": "The oldest Chinese fans that still exist are a pair of side-mounted fans woven from bamboo, from the 2nd century BCE. The Chinese character for “fan” combines the signs for “door” and “feather”.",
+      "why": "China became one of the great homes of fan making and fan painting.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 180,
+      "date": "Han dynasty (c. 1st–2nd century CE)",
+      "era": "hand",
+      "art": "blade",
+      "key": true,
+      "title": "A fan with seven wheels",
+      "who": "Ding Huan (attributed)",
+      "where": "Chang'an (near today's Xi'an), China",
+      "country": "China",
+      "text": "Later accounts credit the Han craftsman Ding Huan with a hand-cranked rotary fan: seven wheels about 3 metres across that one person could turn to cool a whole hall. Historians are not sure of the exact date, and the story comes from later records.",
+      "why": "It is the earliest known record of a fan that spins instead of waves.",
+      "box": "blades",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 750,
+      "date": "8th century",
+      "era": "hand",
+      "art": "gear",
+      "title": "Fans turned by water",
+      "who": "Engineers of Tang China",
+      "where": "China",
+      "country": "China",
+      "text": "During the Tang dynasty, Chinese engineers used water power to turn fan wheels for cooling. Rotary fans became even more common under the Song dynasty.",
+      "why": "Letting water do the work was the first step towards fans that turn by themselves.",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 988,
+      "date": "988 (invented c. 6th–9th century)",
+      "era": "hand",
+      "art": "handfan",
+      "title": "Japan's folding fan goes to China",
+      "who": "The monk Chōnen",
+      "where": "Japan and Kaifeng, China",
+      "country": "Japan",
+      "text": "The folding fan was invented in Japan, probably between the 6th and 9th centuries. In 988 the Japanese monk Chōnen sent gifts to the Song emperor that included twenty fans of thin cypress slats and two folding paper fans.",
+      "why": "A fan that folds flat could go anywhere, and it spread from Japan to China and later to the world.",
+      "sources": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "15th–17th centuries",
+      "era": "hand",
+      "art": "handfan",
+      "title": "Folding fans reach Europe",
+      "who": "Portuguese traders",
+      "where": "Europe",
+      "country": "Portugal",
+      "text": "Portuguese traders began bringing fans from East Asia to Europe from the 1400s. By the 1600s folding fans were fashionable across Europe, and whole trades grew up to paint and make them.",
+      "why": "The fan became one of the most important fashion accessories in Europe for three centuries.",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1780,
+      "date": "c. mid-1700s–early 1900s",
+      "era": "pulled",
+      "art": "punkah",
+      "key": true,
+      "title": "The punkah and the punkah-wallah",
+      "who": "Punkah-wallahs",
+      "where": "India",
+      "country": "India",
+      "text": "The Indian pankha, from pankh, a bird's wing, grew into a big cloth fan hung from the ceiling of offices, courts, barracks and homes. Workers called punkah-wallahs swung it with a rope, often in day and night shifts, for very low pay; in the 1880s some earned about 3 rupees a month.",
+      "why": "It was the ceiling fan before motors, powered by the hard, often unseen labour of Indian workers.",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1827,
+      "date": "1827 onwards",
+      "era": "pulled",
+      "art": "word",
+      "title": "The “secret language” of the fan",
+      "who": "Duvelleroy fan makers",
+      "where": "Paris, France, and London",
+      "country": "France",
+      "text": "Jean-Pierre Duvelleroy opened a fan shop in Paris in 1827. His son Jules later handed out leaflets claiming that women used fans to send coded messages, such as fanning slowly to say “I am married”. Historians now think this language was invented in the 1800s to sell more fans.",
+      "why": "It is a reminder that a good story can travel further than the truth.",
+      "sources": [
+        12,
+        13,
+        0
+      ]
+    },
+    {
+      "year": 1865,
+      "date": "1860s–1870s",
+      "era": "pulled",
+      "art": "ceilingfan",
+      "title": "Ceiling fans driven by running water",
+      "who": "American shops and factories",
+      "where": "United States",
+      "country": "United States",
+      "text": "The first rotary ceiling fans in the United States had no electric motor. A stream of water turned a turbine, which drove long belts that spun several two-bladed fans at once in stores, restaurants and offices. In 1886 John Hunter and his son James, immigrants from Ireland, started making water-powered belt fans in Syracuse, New York.",
+      "why": "Ceiling fans were ready and waiting; they only needed a better engine.",
+      "box": "blades",
+      "sources": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "1882",
+      "era": "electric",
+      "art": "deskfan",
+      "key": true,
+      "title": "The first electric fan",
+      "who": "Schuyler Skaats Wheeler",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "Wheeler, a young American engineer, put a two-bladed propeller on the shaft of an electric motor. The Crocker and Curtis company went on to sell electric fans in the 1880s.",
+      "why": "A motor plus a propeller is still the basic recipe of almost every fan.",
+      "box": "anatomy",
+      "sources": [
+        17,
+        8
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "1882 (patented 12 November 1889)",
+      "era": "electric",
+      "art": "ceilingfan",
+      "key": true,
+      "title": "The electric ceiling fan",
+      "who": "Philip Diehl",
+      "where": "Elizabeth, New Jersey, USA",
+      "country": "United States",
+      "text": "Diehl, a German-born engineer who designed motors for Singer sewing machines, fixed a fan blade to one of those motors and hung it from the ceiling. He patented his “electric-motor fan” in 1889 and later added a light to it.",
+      "why": "It turned the water-and-belt ceiling fan into a self-contained machine you could hang in any room with electricity.",
+      "box": "blades",
+      "sources": [
+        18,
+        19,
+        14
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1 May 1888",
+      "era": "electric",
+      "art": "motor",
+      "key": true,
+      "title": "Tesla's induction motor",
+      "who": "Nikola Tesla",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "Tesla was granted patents for a motor with no brushes, driven by a magnetic field that spins as alternating current flows through its coils. Galileo Ferraris in Italy worked out the same idea independently. George Westinghouse bought the rights to Tesla's patents in 1888.",
+      "why": "The induction motor had no sparking brushes to wear out, and it went on to power most fans for more than a century.",
+      "box": "motor",
+      "sources": [
+        20,
+        21,
+        39
+      ]
+    },
+    {
+      "year": 1891,
+      "date": "1890s",
+      "era": "electric",
+      "art": "motor",
+      "title": "Tesla's motor spins a fan",
+      "who": "Westinghouse Electric",
+      "where": "Pittsburgh, USA",
+      "country": "United States",
+      "text": "Westinghouse built small alternating-current induction motors to drive fans. A Westinghouse fan motor at the Smithsonian still carries a nameplate listing Tesla's patent.",
+      "why": "Fans were one of the first everyday machines to use the new AC motor.",
+      "box": "motor",
+      "sources": [
+        22,
+        20
+      ]
+    },
+    {
+      "year": 1892,
+      "date": "1892",
+      "era": "electric",
+      "art": "deskfan",
+      "title": "Fans for sale in St. Louis",
+      "who": "Emerson Electric",
+      "where": "St. Louis, Missouri, USA",
+      "country": "United States",
+      "text": "Emerson, founded in 1890, began selling electric fans in 1892. Makers such as Emerson, Westinghouse and General Electric soon filled offices and shops with desk and ceiling fans.",
+      "why": "Fans became one of the first electric appliances people bought for everyday comfort.",
+      "sources": [
+        23,
+        8
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "early 1900s",
+      "era": "electric",
+      "art": "ceilingfan",
+      "title": "The electric fan replaces the punkah",
+      "who": "Offices, barracks and homes in India",
+      "where": "India",
+      "country": "India",
+      "text": "As electricity arrived, electric ceiling fans largely took the place of rope-pulled punkahs in barracks and other big buildings. The old name lived on: in aircraft, the little air vent above your seat is still called a punkah louvre.",
+      "why": "A motor did the job that thousands of workers had done by hand.",
+      "box": "motor",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1904–1907",
+      "era": "electric",
+      "art": "deskfan",
+      "key": true,
+      "title": "The fan learns to turn its head",
+      "who": "Diehl and Co.",
+      "where": "Elizabeth, New Jersey, USA",
+      "country": "United States",
+      "text": "In 1904 Diehl's company gave its fan a split-ball joint so you could point it in different directions. About three years later this grew into an oscillating fan that swung from side to side by itself.",
+      "why": "Oscillation spreads one fan's breeze across a whole room.",
+      "box": "oscillate",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1913–1917",
+      "era": "electric",
+      "art": "blade",
+      "title": "Japan mass-produces fans",
+      "who": "Kawakita Denki (KDK)",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "KDK, founded in 1909, began mass-producing its “Typhoon” electric fan in 1913, among the first electric fans mass-produced in Japan. In 1917 it applied to protect a new spiral fan guard, and in 1921 it launched Japan's first ceiling fan.",
+      "why": "Fan making spread beyond the US and Europe, and guards made spinning blades safer to live with.",
+      "box": "anatomy",
+      "sources": [
+        24,
+        8
+      ]
+    },
+    {
+      "year": 1937,
+      "date": "1937",
+      "era": "electric",
+      "art": "ceilingfan",
+      "title": "India starts making its own fans",
+      "who": "Crompton Parkinson Works (later Crompton Greaves)",
+      "where": "India",
+      "country": "India",
+      "text": "A British firm set up Crompton Parkinson Works in India in 1937, and it came under Indian ownership in 1947. By the 1940s Crompton Greaves had become the largest ceiling fan maker in the world.",
+      "why": "India, the land of the punkah, became a giant of the electric ceiling fan.",
+      "sources": [
+        25,
+        14,
+        8
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "c. 1940",
+      "era": "home",
+      "art": "snowflake",
+      "title": "Measuring the chill of moving air",
+      "who": "Paul Siple and Charles Passel",
+      "where": "Antarctica",
+      "country": "Antarctica",
+      "text": "On an Antarctic expedition, Siple and Passel timed how fast a small bottle of water froze in different winds. Their results gave the first wind chill formulas: moving air strips away the warm layer around your skin.",
+      "why": "It explains why a fan cools people, not rooms: the air is no colder, it just takes heat from you faster.",
+      "box": "cooling",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "1945",
+      "era": "home",
+      "art": "blade",
+      "title": "The Vornado",
+      "who": "Ralph Odor, O. A. Sutton and designer Richard Ten Eyck",
+      "where": "Wichita, Kansas, USA",
+      "country": "United States",
+      "text": "Odor had experimented with aircraft propellers before teaming up with Sutton. Their Vornadofan used sharply pitched blades inside a short duct to push a tight spiral of air that kept the whole room circulating.",
+      "why": "It showed that blade shape and a duct could make a fan move air much further.",
+      "box": "blades",
+      "sources": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1950s–1960s",
+      "era": "home",
+      "art": "acunit",
+      "title": "Air conditioning pushes fans aside",
+      "who": "American homes",
+      "where": "United States",
+      "country": "United States",
+      "text": "Willis Carrier designed the first modern air-conditioning system in 1902, and window air conditioners appeared in the early 1930s. As they became affordable after the Second World War, ceiling fans faded from American homes.",
+      "why": "For a while, it looked as if the fan's job was done.",
+      "sources": [
+        29,
+        14
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "home",
+      "art": "chip",
+      "title": "A motor with no brushes",
+      "who": "T. G. Wilson and P. H. Trickey",
+      "where": "United States",
+      "country": "United States",
+      "text": "Wilson and Trickey described a DC motor whose brushes were replaced by electronic switches that feed each coil at just the right moment. Brushless DC motors later spread to computer cooling fans, where they are now used almost everywhere.",
+      "why": "Electronic control opened the way to fan motors that waste much less power.",
+      "box": "motor",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973–1974",
+      "era": "home",
+      "art": "ceilingfan",
+      "key": true,
+      "title": "The ceiling fan comes back",
+      "who": "Hub Markwardt, Crompton Greaves and Burton A. Burton",
+      "where": "Texas and California, USA, with fans made in India",
+      "country": "United States",
+      "text": "In 1973 Texas businessman Hub Markwardt began importing ceiling fans made in India by Crompton Greaves. In 1974 Burton A. Burton founded the Casablanca Fan Company in Pasadena. When energy prices soared in the 1970s, fans that used far less power than air conditioning sold fast.",
+      "why": "An energy crisis reminded people that moving air is a cheap way to feel cool.",
+      "sources": [
+        14,
+        30
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "October 2009",
+      "era": "efficient",
+      "art": "wind",
+      "key": true,
+      "title": "A fan with no blades to see",
+      "who": "Dyson",
+      "where": "United Kingdom",
+      "country": "United Kingdom",
+      "text": "Dyson's Air Multiplier hides a small impeller in its base, which pushes air out of a thin slot in a ring. The fast jet drags surrounding air along with it, so much more air moves than passes through the motor. Toshiba had patented a similar bladeless idea in 1981 but never sold it.",
+      "why": "It proved a fan can move a room's air by pulling it along, not just by pushing it with blades.",
+      "sources": [
+        34,
+        35
+      ],
+      "box": "oscillate"
+    },
+    {
+      "year": 2022,
+      "date": "September 2022",
+      "era": "efficient",
+      "art": "motor",
+      "key": true,
+      "title": "India's super-efficient fan push",
+      "who": "Energy Efficiency Services Limited (EESL)",
+      "where": "India",
+      "country": "India",
+      "text": "After a pilot of 100,000 fans, India's government-backed EESL began offering 5-star BLDC ceiling fans that draw about 28–32 watts, compared with 70–75 watts for an ordinary induction-motor fan. India buys around 40 million ceiling fans a year.",
+      "why": "Swapping the motor can cut a ceiling fan's electricity use by more than half.",
+      "box": "motor",
+      "sources": [
+        36,
+        40
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2022–2023",
+      "era": "efficient",
+      "art": "bolt",
+      "title": "Every ceiling fan gets a star label",
+      "who": "Bureau of Energy Efficiency (BEE)",
+      "where": "India",
+      "country": "India",
+      "text": "India made energy star labels compulsory for ceiling fans, with makers given until the end of 2022 to clear unlabelled stock and the rules applying from 1 January 2023. Every fan must now reach at least 1 star, and 5-star fans use about half the power of the most common older models.",
+      "why": "With some 500 million ceiling fans in use in India, small savings on each one add up to power stations' worth of electricity.",
+      "sources": [
+        37,
+        38
+      ],
+      "box": "speed"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Spinning (rotary) fan on record",
+      "value": "Han dynasty (attributed)",
+      "who": "Ding Huan, China"
+    },
+    {
+      "label": "Folding fan",
+      "value": "c. 6th–9th century",
+      "who": "Japan"
+    },
+    {
+      "label": "Electric fan",
+      "value": "1882",
+      "who": "Schuyler Skaats Wheeler, USA"
+    },
+    {
+      "label": "Electric ceiling fan",
+      "value": "1882 (patent 1889)",
+      "who": "Philip Diehl, USA"
+    },
+    {
+      "label": "Oscillating fan",
+      "value": "c. 1907",
+      "who": "Diehl and Co., USA"
+    },
+    {
+      "label": "Mass-produced electric fan in Japan",
+      "value": "1913",
+      "who": "KDK, Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "Chōnen",
+      "life": "938 – 1016",
+      "role": "Buddhist monk",
+      "from": "Japan",
+      "note": "Sent Japanese folding fans as gifts to the Song emperor of China in 988."
+    },
+    {
+      "name": "Philip Diehl",
+      "life": "1847 – 1913",
+      "role": "Engineer and inventor",
+      "from": "Germany and USA",
+      "note": "Turned a sewing-machine motor into the first electric ceiling fan."
+    },
+    {
+      "name": "Nikola Tesla",
+      "life": "1856 – 1943",
+      "role": "Electrical engineer and inventor",
+      "from": "Austrian Empire (today's Croatia) and USA",
+      "note": "Patented the AC induction motor that drove fans for over a century."
+    },
+    {
+      "name": "Schuyler Skaats Wheeler",
+      "life": "1860 – 1923",
+      "role": "Electrical engineer",
+      "from": "USA",
+      "note": "Put a propeller on an electric motor in 1882 and made the first electric fan."
+    },
+    {
+      "name": "Paul Siple",
+      "life": "1908 – 1968",
+      "role": "Polar explorer and scientist",
+      "from": "USA",
+      "note": "With Charles Passel, measured wind chill in Antarctica."
+    },
+    {
+      "name": "James Dyson",
+      "life": "born 1947",
+      "role": "Inventor and industrial designer",
+      "from": "United Kingdom",
+      "note": "His company launched the bladeless Air Multiplier fan in 2009."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The word punkah comes from pankh, a bird's wing, and aircraft air vents are still called punkah louvres.",
+    "A fan does not make the air colder: it cools people, not rooms, so turn it off when you leave.",
+    "India has an estimated 500 million ceiling fans in use.",
+    "A BLDC ceiling fan can run on about 28–32 watts, less than half the 70–75 watts of a typical older fan.",
+    "The idea of a bladeless fan was patented by Toshiba in 1981, almost 30 years before Dyson's went on sale."
+  ],
+  "sources": [
+    {
+      "title": "Hand fan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hand_fan"
+    },
+    {
+      "title": "Ostrich Hunt Fan",
+      "publisher": "Grand Egyptian Museum",
+      "url": "https://gem.eg/en/collection/artefacts/ostrich-hunt-fan"
+    },
+    {
+      "title": "Fan (decorative arts)",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/art/fan-decorative-arts"
+    },
+    {
+      "title": "Folding fan",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/art/folding-fan"
+    },
+    {
+      "title": "Useless Tribute, Desirable Exotics: Japanese Folding Fans",
+      "publisher": "Sungkyun Journal of East Asian Studies (Duke University Press)",
+      "url": "https://read.dukeupress.edu/sungkyun-journal-of-east-asian-studies/article/21/1/27/173726/Useless-Tribute-Desirable-ExoticsJapanese-Folding"
+    },
+    {
+      "title": "Windcatcher",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Windcatcher"
+    },
+    {
+      "title": "Evaporative cooler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evaporative_cooler"
+    },
+    {
+      "title": "Yakhchāl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yakhch%C4%81l"
+    },
+    {
+      "title": "Fan (machine)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fan_(machine)"
+    },
+    {
+      "title": "Ding Huan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ding_Huan"
+    },
+    {
+      "title": "Punkah",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Punkah"
+    },
+    {
+      "title": "A reminder of how British colonials exploited punkah-walas in India's summers",
+      "publisher": "Scroll.in (Arun Kumar, University of Nottingham)",
+      "url": "https://scroll.in/article/1028513/amidst-uk-heatwave-a-reminder-of-how-british-colonials-exploited-punkah-walas-in-indias-summers"
+    },
+    {
+      "title": "Duvelleroy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duvelleroy"
+    },
+    {
+      "title": "Fanmania: fan language",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/exhibitions/fanmania/fanlanguage"
+    },
+    {
+      "title": "Ceiling fan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ceiling_fan"
+    },
+    {
+      "title": "Ceiling fan",
+      "publisher": "New World Encyclopedia",
+      "url": "https://www.newworldencyclopedia.org/entry/Ceiling_fan"
+    },
+    {
+      "title": "Hunter Fan Company",
+      "publisher": "Encyclopedia.com (International Directory of Company Histories)",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hunter-fan-company"
+    },
+    {
+      "title": "Schuyler Skaats Wheeler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Schuyler_Skaats_Wheeler"
+    },
+    {
+      "title": "Philip Diehl (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philip_Diehl_(inventor)"
+    },
+    {
+      "title": "US414758A: Electric-motor fan (Philip Diehl, 1889)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US414758A/en"
+    },
+    {
+      "title": "Induction motor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Induction_motor"
+    },
+    {
+      "title": "US381968A: Electro-magnetic motor (Nikola Tesla, 1888)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US381968A/en"
+    },
+    {
+      "title": "Westinghouse alternating current fan motor",
+      "publisher": "Smithsonian National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_712591"
+    },
+    {
+      "title": "Emerson Electric",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emerson_Electric"
+    },
+    {
+      "title": "Our History",
+      "publisher": "KDK",
+      "url": "https://kdk.jp/about-us/our-history"
+    },
+    {
+      "title": "Crompton Greaves Consumer Electricals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crompton_Greaves_Consumer_Electricals"
+    },
+    {
+      "title": "Vornado Air",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vornado_Air"
+    },
+    {
+      "title": "History",
+      "publisher": "Vornado Air",
+      "url": "https://www.vornado.com/history"
+    },
+    {
+      "title": "Vornado fan",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/technology/Vornado-fan"
+    },
+    {
+      "title": "Air conditioning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_conditioning"
+    },
+    {
+      "title": "Casablanca Fan Company",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Casablanca_Fan_Company"
+    },
+    {
+      "title": "Wind chill",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wind_chill"
+    },
+    {
+      "title": "Ceiling Fans Made Easy",
+      "publisher": "ENERGY STAR (US EPA and DOE)",
+      "url": "https://www.energystar.gov/sites/default/files/asset/document/Ceiling%20Fan%20FS%20v14.pdf"
+    },
+    {
+      "title": "Brushless DC electric motor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brushless_DC_electric_motor"
+    },
+    {
+      "title": "Dyson Air Multiplier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dyson_Air_Multiplier"
+    },
+    {
+      "title": "Dyson Air Multiplier fan",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://collections.vam.ac.uk/item/O1161043/dyson-air-multipliertm-fan-fan-james-dyson/"
+    },
+    {
+      "title": "EESL unveils 5-star rated ceiling fans with BLDC technology in India",
+      "publisher": "Energetica India",
+      "url": "https://www.energetica-india.net/news/eesl-unveils-5-star-rated-ceiling-fans-with-bldc-technology-in-india"
+    },
+    {
+      "title": "Ceiling fans get costlier as BEE's revised norms mandate star labelling",
+      "publisher": "Business Standard",
+      "url": "https://www.business-standard.com/article/economy-policy/ceiling-fans-get-costlier-as-bee-s-revised-norms-mandate-star-labelling-123010800303_1.html"
+    },
+    {
+      "title": "Mandatory S&L for ceiling fans: potential game-changer but needs follow-through",
+      "publisher": "Prayas (Energy Group)",
+      "url": "https://energy.prayaspune.org/power-perspectives/mandatory-s-l-for-ceiling-fans"
+    },
+    {
+      "title": "Nikola Tesla",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "title": "Cooling without the carbon cost: the BLDC super fan",
+      "publisher": "NITI Aayog Frontier Tech Hub (Government of India)",
+      "url": "https://frontiertech.niti.gov.in/story/cooling-without-the-carbon-cost-the-bldc-super-fan-reducing-indias-power-footprint/"
+    }
+  ]
+}
